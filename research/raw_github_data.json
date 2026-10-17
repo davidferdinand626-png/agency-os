@@ -1,0 +1,394 @@
+{
+  "coreyhaines31/marketingskills": {
+    "name": "coreyhaines31/marketingskills",
+    "stars": 55250,
+    "license": "MIT",
+    "pushed_at": "2026-10-15",
+    "open_issues": 30,
+    "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering."
+  },
+  "kostja94/marketing-skills": {
+    "name": "kostja94/marketing-skills",
+    "stars": 1047,
+    "license": "MIT",
+    "pushed_at": "2026-10-06",
+    "open_issues": 6,
+    "desc": "Agent Skills for Marketing \u2014 SEO, Social, Influencer & More. 160+ open-source skills for SEO, content, 40+ page types, paid ads, channels, and strategies. Add project context; get tailored, production-ready output. Cursor, Claude Code, OpenClaw \u2014 no lock-in."
+  },
+  "ScaleBrick/founder-marketing-skills": {
+    "name": "ScaleBrick/founder-marketing-skills",
+    "stars": 85,
+    "license": "MIT",
+    "pushed_at": "2026-05-01",
+    "open_issues": 2,
+    "desc": "Open-source marketing skills for founders. Keyword research, growth strategy, social search audit, competitor analysis. Install with npx skills."
+  },
+  "AgriciDaniel/claude-seo": {
+    "name": "AgriciDaniel/claude-seo",
+    "stars": 19126,
+    "license": "MIT",
+    "pushed_at": "2026-10-04",
+    "open_issues": 38,
+    "desc": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data."
+  },
+  "kokasexton/awesome-marketing-repos": {
+    "name": "kokasexton/awesome-marketing-repos",
+    "stars": 7,
+    "license": "None",
+    "pushed_at": "2026-08-08",
+    "open_issues": 7,
+    "desc": "A curated awesome list of the best open-source GitHub repos for marketing teams - AI tools, automation, analytics, SEO, email, growth engineering, and more."
+  },
+  "n8n-io/n8n": {
+    "name": "n8n-io/n8n",
+    "stars": 207823,
+    "license": "NOASSERTION",
+    "pushed_at": "2026-10-17",
+    "open_issues": 1188,
+    "desc": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations."
+  },
+  "PostHog/posthog": {
+    "name": "PostHog/posthog",
+    "stars": 40326,
+    "license": "NOASSERTION",
+    "pushed_at": "2026-10-17",
+    "open_issues": 5738,
+    "desc": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools \u2013 AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more \u2013 capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP."
+  },
+  "growthbook/growthbook": {
+    "name": "growthbook/growthbook",
+    "stars": 8506,
+    "license": "NOASSERTION",
+    "pushed_at": "2026-10-17",
+    "open_issues": 835,
+    "desc": "Open Source Feature Flags, Experimentation, and Product Analytics"
+  },
+  "mautic/mautic": {
+    "name": "mautic/mautic",
+    "stars": 10787,
+    "license": "NOASSERTION",
+    "pushed_at": "2026-10-16",
+    "open_issues": 301,
+    "desc": "Mautic: Open Source Marketing Automation Software."
+  },
+  "gitroomhq/postiz-app": {
+    "name": "gitroomhq/postiz-app",
+    "stars": 37332,
+    "license": "AGPL-3.0",
+    "pushed_at": "2026-10-17",
+    "open_issues": 229,
+    "desc": "\ud83d\udce8 The ultimate agentic social media scheduling tool \ud83e\udd16"
+  },
+  "madebymustafa/design-taste": {
+    "name": "madebymustafa/design-taste",
+    "stars": 158,
+    "license": "MIT",
+    "pushed_at": "2026-08-15",
+    "open_issues": 0,
+    "desc": "24 open-source agent skills that turn taste into instructions \u2014 ten genre identities, each proven by a same-brief before/after demo"
+  },
+  "Dragoon0x/everything-design-taste": {
+    "name": "Dragoon0x/everything-design-taste",
+    "stars": 13,
+    "license": "MIT",
+    "pushed_at": "2026-04-11",
+    "open_issues": 0,
+    "desc": "A taste system for AI agents. 288 skills, 80 agents, 12 rules, and 8 hooks that turn generic AI output into work with genuine design quality. Anti-slop detection, typography craft, color systems, brand voice, product strategy, and 50+ specialized reviewers across UI, industry, platform, and content domains."
+  },
+  "deeflect/mies": {
+    "name": "deeflect/mies",
+    "stars": 4,
+    "license": "MIT",
+    "pushed_at": "2026-05-29",
+    "open_issues": 0,
+    "desc": "A design-taste skill that removes what an interface doesn't need, then perfects what's left."
+  },
+  "allisonllx/incline": {
+    "name": "allisonllx/incline",
+    "stars": 0,
+    "license": "None",
+    "pushed_at": "2026-10-04",
+    "open_issues": 0,
+    "desc": "A local design-taste companion for coding agents: collect inspiration, compare visual directions, and preserve contextual preferences."
+  },
+  "storybookjs/storybook": {
+    "name": "storybookjs/storybook",
+    "stars": 91322,
+    "license": "MIT",
+    "pushed_at": "2026-10-17",
+    "open_issues": 1880,
+    "desc": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation"
+  },
+  "shadcn-ui/ui": {
+    "name": "shadcn-ui/ui",
+    "stars": 125817,
+    "license": "MIT",
+    "pushed_at": "2026-10-17",
+    "open_issues": 1789,
+    "desc": "Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own."
+  },
+  "tailwindlabs/tailwindcss": {
+    "name": "tailwindlabs/tailwindcss",
+    "stars": 97900,
+    "license": "MIT",
+    "pushed_at": "2026-10-16",
+    "open_issues": 85,
+    "desc": "A utility-first CSS framework for rapid UI development."
+  },
+  "jdan/awesome-design": {
+    "name": "jdan/awesome-design",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "terkelg/awesome-creative-coding": {
+    "name": "terkelg/awesome-creative-coding",
+    "stars": 15451,
+    "license": "None",
+    "pushed_at": "2026-07-21",
+    "open_issues": 21,
+    "desc": "Creative Coding: Generative Art, Data visualization, Interaction Design, Resources."
+  },
+  "genekogan/awesome-generative-art": {
+    "name": "genekogan/awesome-generative-art",
+    "error": "HTTP Error 404: Not Found"
+  },
+  "remotion-dev/remotion": {
+    "name": "remotion-dev/remotion",
+    "stars": 64763,
+    "license": "NOASSERTION",
+    "pushed_at": "2026-10-17",
+    "open_issues": 185,
+    "desc": "\ud83c\udfa5      Make videos programmatically with React"
+  },
+  "remotion-dev/skills": {
+    "name": "remotion-dev/skills",
+    "stars": 5291,
+    "license": "None",
+    "pushed_at": "2026-10-16",
+    "open_issues": 22,
+    "desc": "Agent Skills"
+  },
+  "FFmpeg/FFmpeg": {
+    "name": "FFmpeg/FFmpeg",
+    "stars": 65332,
+    "license": "NOASSERTION",
+    "pushed_at": "2026-10-17",
+    "open_issues": 3,
+    "desc": "Mirror of https://git.ffmpeg.org/ffmpeg.git"
+  },
+  "yt-dlp/yt-dlp": {
+    "name": "yt-dlp/yt-dlp",
+    "stars": 198869,
+    "license": "Unlicense",
+    "pushed_at": "2026-10-10",
+    "open_issues": 2716,
+    "desc": "A feature-rich command-line audio/video downloader"
+  },
+  "openai/whisper": {
+    "name": "openai/whisper",
+    "stars": 110776,
+    "license": "MIT",
+    "pushed_at": "2026-08-31",
+    "open_issues": 172,
+    "desc": "Robust Speech Recognition via Large-Scale Weak Supervision"
+  },
+  "m-bain/whisperX": {
+    "name": "m-bain/whisperX",
+    "stars": 24632,
+    "license": "BSD-2-Clause",
+    "pushed_at": "2026-09-26",
+    "open_issues": 230,
+    "desc": "WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)"
+  },
+  "Breakthrough/PySceneDetect": {
+    "name": "Breakthrough/PySceneDetect",
+    "stars": 5253,
+    "license": "BSD-3-Clause",
+    "pushed_at": "2026-10-17",
+    "open_issues": 64,
+    "desc": ":movie_camera: Python and OpenCV-based scene cut/transition detection program & library."
+  },
+  "Zulko/moviepy": {
+    "name": "Zulko/moviepy",
+    "stars": 14998,
+    "license": "MIT",
+    "pushed_at": "2026-08-26",
+    "open_issues": 92,
+    "desc": "Video editing with Python"
+  },
+  "opencv/opencv": {
+    "name": "opencv/opencv",
+    "stars": 91207,
+    "license": "Apache-2.0",
+    "pushed_at": "2026-10-16",
+    "open_issues": 2848,
+    "desc": "Open Source Computer Vision Library"
+  },
+  "comfyanonymous/ComfyUI": {
+    "name": "comfyanonymous/ComfyUI",
+    "stars": 138062,
+    "license": "GPL-3.0",
+    "pushed_at": "2026-10-17",
+    "open_issues": 5232,
+    "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world."
+  },
+  "freeCodeCamp/freeCodeCamp": {
+    "name": "freeCodeCamp/freeCodeCamp",
+    "stars": 457317,
+    "license": "BSD-3-Clause",
+    "pushed_at": "2026-10-17",
+    "open_issues": 180,
+    "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+  },
+  "ossu/computer-science": {
+    "name": "ossu/computer-science",
+    "stars": 210085,
+    "license": "MIT",
+    "pushed_at": "2026-07-14",
+    "open_issues": 28,
+    "desc": "\ud83c\udf93 Path to a free self-taught education in Computer Science!"
+  },
+  "kamranahmedse/developer-roadmap": {
+    "name": "kamranahmedse/developer-roadmap",
+    "stars": 369697,
+    "license": "NOASSERTION",
+    "pushed_at": "2026-10-16",
+    "open_issues": 3,
+    "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers."
+  },
+  "papers-we-love/papers-we-love": {
+    "name": "papers-we-love/papers-we-love",
+    "stars": 110639,
+    "license": "None",
+    "pushed_at": "2026-09-29",
+    "open_issues": 4,
+    "desc": "Papers from the computer science community to read and discuss."
+  },
+  "public-apis/public-apis": {
+    "name": "public-apis/public-apis",
+    "stars": 489754,
+    "license": "MIT",
+    "pushed_at": "2026-10-17",
+    "open_issues": 2200,
+    "desc": "A collective list of free APIs"
+  },
+  "awesome-selfhosted/awesome-selfhosted": {
+    "name": "awesome-selfhosted/awesome-selfhosted",
+    "stars": 327669,
+    "license": "NOASSERTION",
+    "pushed_at": "2026-10-16",
+    "open_issues": 0,
+    "desc": "A list of Free Software network services and web applications which can be hosted on your own servers"
+  },
+  "huggingface/transformers": {
+    "name": "huggingface/transformers",
+    "stars": 167796,
+    "license": "Apache-2.0",
+    "pushed_at": "2026-10-17",
+    "open_issues": 2322,
+    "desc": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. "
+  },
+  "anthropics/anthropic-cookbook": {
+    "name": "anthropics/anthropic-cookbook",
+    "stars": 53524,
+    "license": "MIT",
+    "pushed_at": "2026-10-17",
+    "open_issues": 361,
+    "desc": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude."
+  },
+  "Shubhamsaboo/awesome-llm-apps": {
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "stars": 142134,
+    "license": "Apache-2.0",
+    "pushed_at": "2026-10-17",
+    "open_issues": 33,
+    "desc": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source."
+  },
+  "browser-use/browser-use": {
+    "name": "browser-use/browser-use",
+    "stars": 118331,
+    "license": "MIT",
+    "pushed_at": "2026-10-17",
+    "open_issues": 568,
+    "desc": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API."
+  },
+  "anthropics/skills": {
+    "name": "anthropics/skills",
+    "stars": 181780,
+    "license": "None",
+    "pushed_at": "2026-10-09",
+    "open_issues": 1426,
+    "desc": "Public repository for Agent Skills"
+  },
+  "openai/skills": {
+    "name": "openai/skills",
+    "stars": 28129,
+    "license": "None",
+    "pushed_at": "2026-09-08",
+    "open_issues": 295,
+    "desc": "Skills Catalog for Codex"
+  },
+  "langchain-ai/langgraph": {
+    "name": "langchain-ai/langgraph",
+    "stars": 43417,
+    "license": "MIT",
+    "pushed_at": "2026-10-17",
+    "open_issues": 653,
+    "desc": "Build resilient agents."
+  },
+  "crewAIInc/crewAI": {
+    "name": "crewAIInc/crewAI",
+    "stars": 59805,
+    "license": "MIT",
+    "pushed_at": "2026-10-17",
+    "open_issues": 747,
+    "desc": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks."
+  },
+  "agno-agi/agno": {
+    "name": "agno-agi/agno",
+    "stars": 42781,
+    "license": "Apache-2.0",
+    "pushed_at": "2026-10-17",
+    "open_issues": 1898,
+    "desc": "Build, run, and manage agent platforms."
+  },
+  "activepieces/activepieces": {
+    "name": "activepieces/activepieces",
+    "stars": 25086,
+    "license": "NOASSERTION",
+    "pushed_at": "2026-10-17",
+    "open_issues": 766,
+    "desc": "AI Agents & MCPs & AI Workflow Automation \u2022 (~400 MCP servers for AI agents) \u2022 AI Automation / AI Agent with MCPs \u2022 AI Workflows & AI Agents \u2022 MCPs for AI Agents"
+  },
+  "twentyhq/twenty": {
+    "name": "twentyhq/twenty",
+    "stars": 58462,
+    "license": "NOASSERTION",
+    "pushed_at": "2026-10-17",
+    "open_issues": 96,
+    "desc": "The open alternative to Salesforce, designed for AI."
+  },
+  "metabase/metabase": {
+    "name": "metabase/metabase",
+    "stars": 49714,
+    "license": "NOASSERTION",
+    "pushed_at": "2026-10-17",
+    "open_issues": 4556,
+    "desc": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:"
+  },
+  "apify/crawlee": {
+    "name": "apify/crawlee",
+    "stars": 26177,
+    "license": "Apache-2.0",
+    "pushed_at": "2026-10-16",
+    "open_issues": 155,
+    "desc": "Crawlee\u2014A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation."
+  },
+  "airbytehq/airbyte": {
+    "name": "airbytehq/airbyte",
+    "stars": 22235,
+    "license": "NOASSERTION",
+    "pushed_at": "2026-10-17",
+    "open_issues": 2608,
+    "desc": "Open-source data movement for ELT pipelines and AI agents \u2014 from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud."
+  }
+}
