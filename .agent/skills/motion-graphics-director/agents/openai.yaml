@@ -1,0 +1,6 @@
+interface:
+  display_name: "Motion Graphics Director"
+  short_description: "Plan and generate AI motion graphics"
+  default_prompt: "Use $motion-graphics-director to turn this brief and references into three storyboard directions, provider-ready prompts, ref-to-video shots, and a Remotion text overlay."
+policy:
+  allow_implicit_invocation: true
