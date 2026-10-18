@@ -1,0 +1,249 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": ["LocalBusiness", "TransportationService"],
+      "@id": "https://little.africa/#organization",
+      "name": "Little Ride Tanzania",
+      "legalName": "Little Africa Tanzania Limited",
+      "alternateName": ["Little Africa", "Little Ride Dar es Salaam", "Little TZ"],
+      "url": "https://little.africa",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://little.africa/#logo",
+        "url": "https://little.africa/images/logo.png",
+        "caption": "Little Ride Tanzania Logo"
+      },
+      "image": "https://little.africa/images/little-ride-fleet.jpg",
+      "description": "Leading digital mobility platform in Tanzania providing multimodal urban transport, Little Lady female driver safety protocol, and Little Corporate automated enterprise invoicing.",
+      "telephone": "+255700000000",
+      "email": "corporate.tz@little.africa",
+      "priceRange": "$$",
+      "currenciesAccepted": "TZS, USD",
+      "paymentAccepted": [
+        "Cash",
+        "Credit Card",
+        "Debit Card",
+        "M-Pesa",
+        "Tigo Pesa",
+        "Airtel Money",
+        "Halopesa",
+        "Corporate Invoicing"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Mwanga Tower, 9th Floor, Kijitonyama, Ali Hassan Mwinyi Road",
+        "addressLocality": "Dar es Salaam",
+        "addressRegion": "Dar es Salaam",
+        "postalCode": "14111",
+        "addressCountry": "TZ"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": -6.7725,
+        "longitude": 39.2411
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "00:00",
+          "closes": "23:59"
+        }
+      ],
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Dar es Salaam",
+          "sameAs": "https://en.wikipedia.org/wiki/Dar_es_Salaam"
+        },
+        {
+          "@type": "City",
+          "name": "Arusha",
+          "sameAs": "https://en.wikipedia.org/wiki/Arusha"
+        },
+        {
+          "@type": "City",
+          "name": "Zanzibar City",
+          "sameAs": "https://en.wikipedia.org/wiki/Zanzibar_City"
+        }
+      ],
+      "sameAs": [
+        "https://twitter.com/LittleRideTZ",
+        "https://www.linkedin.com/company/little-ride-tanzania",
+        "https://www.facebook.com/LittleRideTanzania",
+        "https://www.instagram.com/littleridetz"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Little Ride Mobility Services",
+        "itemListElement": [
+          {
+            "@type": "OfferCatalog",
+            "name": "Corporate Mobility",
+            "itemListElement": [
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "@id": "https://little.africa/#service-corporate",
+                  "name": "Little Corporate Mobility Management",
+                  "serviceType": "Enterprise Fleet & Expense Invoicing",
+                  "description": "Centralized corporate ride management platform replacing paper taxi receipts with automated monthly consolidated VAT billing, department cost-center tracking, and ERP integration."
+                }
+              }
+            ]
+          },
+          {
+            "@type": "OfferCatalog",
+            "name": "Passenger Rides",
+            "itemListElement": [
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "@id": "https://little.africa/#service-lady",
+                  "name": "Little Lady",
+                  "serviceType": "Female Passenger Safety Transport",
+                  "description": "Dedicated safety protocol pairing female passengers with verified female drivers, backed by 24/7 control room monitoring and emergency SOS escalation."
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "@id": "https://little.africa/#service-comfort",
+                  "name": "Little Comfort",
+                  "serviceType": "Executive Sedan Ride-Hailing",
+                  "description": "Air-conditioned 4-door sedans with top-rated drivers for corporate executive commutes, meetings, and airport transfers."
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "@id": "https://little.africa/#service-bajaj",
+                  "name": "Little Bajaj",
+                  "serviceType": "Three-Wheeler Rapid Transit",
+                  "description": "Agile three-wheeled autorickshaw transport designed to navigate Dar es Salaam peak-hour traffic bottlenecks at economical rates."
+                }
+              },
+              {
+                "@type": "Offer",
+                "itemOffered": {
+                  "@type": "Service",
+                  "@id": "https://little.africa/#service-parcel",
+                  "name": "Little Parcel",
+                  "serviceType": "Intra-City Courier Delivery",
+                  "description": "On-demand same-day document and package delivery across Dar es Salaam with real-time GPS tracking and secure PIN verification."
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://little.africa/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How does Little Corporate automated monthly invoicing work for businesses in Tanzania?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Little Corporate provisions employee accounts linked to an organization's master profile. Employees hail rides without personal cash or mobile money. At the end of each billing cycle, finance receives a single itemized, TRA-compliant consolidated VAT invoice detailing employee names, departments, project codes, distances, fares, and GPS route logs, eliminating manual paper receipt expense reconciliations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What makes Little Lady rides safer for female passengers in Dar es Salaam?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Little Lady allows female riders to exclusively request female drivers who have completed background checks with the Tanzania Police Force and extensive safety training. Rides feature live GPS route tracking shared with emergency contacts and continuous monitoring from a dedicated 24/7 dispatch operations room in Kijitonyama, Dar es Salaam."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What payment methods are supported on Little Ride Tanzania?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Little Ride supports all major Tanzanian mobile money services including Vodacom M-Pesa, Tigo Pesa, Airtel Money, and Halopesa. Passengers can also pay via Visa, Mastercard, cash, the in-app Little Wallet, or corporate post-paid invoicing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does Little Bajaj help commuters beat Dar es Salaam traffic jams?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Little Bajaj deploys three-wheeled autorickshaws that navigate single-lane congestion and bottleneck junctions (such as Mwenge, Kariakoo, Posta, and Morocco) up to 50% faster than passenger sedans during peak rush hours (17:00–19:30), while offering fares roughly 40% lower than standard taxis."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the driver commission rate on Little Ride in Tanzania?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Little Ride charges a flat 15% commission rate to driver partners, compared to 18%–25% charged by competing platforms in Tanzania. This allows drivers to retain 85% of gross fares, resulting in higher driver satisfaction, less vehicle cancellation, and superior car availability for riders."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I book airport transfers to Julius Nyerere International Airport (JNIA)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Little Comfort sedans provide direct airport transfers between Julius Nyerere International Airport (JNIA Terminal 2 and Terminal 3) and all neighborhoods across Dar es Salaam, including Posta, Masaki, Oysterbay, and Mikocheni, with upfront flat fare visibility and scheduled advance booking."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do new users redeem the KARIBUDAR promo code in Dar es Salaam?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Download the Little app from the Google Play Store or Apple App Store, register your mobile number, open the 'Promotions' menu, enter promo code KARIBUDAR, and apply it. You will receive 20% off your first 3 rides across Little Comfort and Little Bajaj tiers in Dar es Salaam."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can Little Corporate integrate with enterprise ERP software like SAP, Oracle, and QuickBooks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Little Corporate features a dedicated REST API and automated data export pipelines in CSV, Excel, and XML formats, allowing seamless reconciliation of monthly travel expenditures with enterprise ERP systems including SAP, Oracle ERP, QuickBooks, and Microsoft Dynamics."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://little.africa/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://little.africa"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Tanzania",
+          "item": "https://little.africa/tz"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Dar es Salaam Mobility Services",
+          "item": "https://little.africa/tz/dar-es-salaam"
+        }
+      ]
+    }
+  ]
+}

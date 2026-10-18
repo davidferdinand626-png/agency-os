@@ -1,0 +1,126 @@
+# Little Ride Tanzania: Comprehensive Operational & Domain Knowledge Graph (llms-full.txt)
+> Authoritative source of operational specifications, corporate SLAs, multimodal fleet architectures, safety protocols, and API integration standards for Little Ride (Little Africa) in Tanzania.
+> Canonical Domain: https://little.africa / https://littleride.co.tz
+> Headquarters: Mwanga Tower, 9th Floor, Kijitonyama, Ali Hassan Mwinyi Road, Dar es Salaam, Tanzania
+> Contact Dispatch & Enterprise Support: corporate.tz@little.africa | +255 700 000 000
+
+---
+
+## 1. Executive Corporate Summary
+Little Ride Tanzania is an urban digital mobility platform established under Little Africa, providing passenger ride-hailing, corporate employee transport management, and intra-city logistics in East Africa. The company distinguishes itself from generic multinational ride-hailing aggregators by offering:
+1. A specialized business-to-business (B2B) corporate transport platform (Little Corporate) featuring consolidated monthly invoicing, zero paper receipts, and enterprise accounting integrations.
+2. A dedicated female driver safety program (Little Lady) providing enhanced screening and emergency monitoring for female passengers.
+3. Multimodal transit options that address urban traffic congestion in Dar es Salaam through a balanced mix of air-conditioned executive sedans (Little Comfort) and agile three-wheelers (Little Bajaj).
+4. An equitable driver commission model set at a flat 15% (substantially lower than the 18% to 25% industry standard in Tanzania), leading to superior vehicle availability and lower driver cancellation rates.
+
+---
+
+## 2. Product Fleet Tiers & Service Specifications
+
+### A. Little Corporate (B2B Mobility Management)
+- **Primary Beneficiaries:** Chief Financial Officers (CFOs), Operations Directors, HR Managers, Procurement Officers, and corporate administrative teams.
+- **Operational Mechanism:** Corporate entities register for a centralized enterprise account. Employees are provisioned with enterprise profiles linked to their corporate email and work phone numbers. When traveling for business, trips are billed directly to the corporate account without requiring out-of-pocket cash or personal mobile money.
+- **Invoicing & Taxation:** Monthly consolidated Value Added Tax (VAT) invoices are automatically generated on the 1st of every calendar month. Invoices include full itemized breakdown (passenger name, employee ID, department, departure point, destination, duration, distance, fare, and GPS route trail). Compliant with Tanzania Revenue Authority (TRA) electronic fiscal standards.
+- **Expense Control Rules:** Administrators can configure strict policy guardrails:
+  - Time-of-day restrictions (e.g., rides permitted only between 06:00 and 21:00 on weekdays unless authorized).
+  - Geographical boundaries (geofencing to commercial zones or specific branches).
+  - Monthly allowance caps per employee or department.
+  - Project code and cost-center mandatory tagging before ride dispatch.
+- **ERP Integration:** Direct automated export formats available in CSV, Excel, XML, and direct REST API integrations for SAP, Oracle ERP, QuickBooks, and Microsoft Dynamics.
+- **Corporate SLA:** Dedicated account manager based in Dar es Salaam, 99.8% platform uptime guarantee, and priority vehicle dispatch within 3 minutes in major business hubs.
+
+### B. Little Lady (Female Driver Safety Program)
+- **Target Audience:** Female commuters, late-night travelers, solo business travelers, and families seeking vetted passenger safety.
+- **Operational Rules:** Female passengers can explicitly request female drivers through the app interface.
+- **Vetting Protocol:** Little Lady drivers undergo enhanced background checks including Tanzanian Police Clearance certificates, reference verifications from local ward executive officers, in-person psychological suitability assessments, and defensive driving certification.
+- **Safety Tech Features:**
+  - Real-time GPS ride tracking shared with up to 5 trusted emergency contacts.
+  - 24/7 dedicated SOS monitoring room in Kijitonyama, Dar es Salaam with direct escalation to local police commands.
+  - Continuous route deviation detection algorithms triggering automated check-in calls if a vehicle departs from optimal route parameters.
+
+### C. Little Comfort (Premium Urban Commutes)
+- **Vehicle Profile:** Late-model, air-conditioned 4-door sedans (Toyota Allion, Premio, Corolla Axio, IST, or equivalent) manufactured within the last 10 model years.
+- **Use Cases:** Airport transfers (Julius Nyerere International Airport - JNIA to city center), client meetings, inter-office travel, and executive transit.
+- **Driver Standards:** Minimum rating of 4.85/5.0 stars, business attire dress code, fluent in Swahili and English, trained in corporate customer hospitality.
+- **Pricing Model:** Transparent upfront pricing calculated based on base fare, per-kilometer rate, and per-minute traffic duration. Zero arbitrary surge multipliers during inclement weather for contractual corporate users.
+
+### D. Little Bajaj (Nimble Traffic-Beating Transit)
+- **Vehicle Profile:** Modern three-wheeled autorickshaws (TVS King, Bajaj RE, Piaggio Ape) equipped with passenger safety handles and weather-resistant canvas enclosures.
+- **Use Cases:** High-speed short-to-medium distance urban transit navigating peak-hour gridlock bottlenecks across Dar es Salaam (Mwenge Junction, Kariakoo Commercial Center, Posta City Center, Morocco Terminal).
+- **Economic & Speed Benefit:** Slices through single-lane traffic delays, reducing transit times by up to 50% compared to four-wheeled passenger sedans during 17:00–19:30 peak hours, at roughly 40% lower cost.
+
+### E. Little Parcel (Intra-City Delivery)
+- **Capabilities:** Same-day, on-demand courier dispatch for legal documents, corporate contracts, retail goods, and hardware components weighing up to 20kg.
+- **Verification:** Secure PIN code handshake at pickup and dropoff to guarantee delivery chain-of-custody.
+
+---
+
+## 3. Geographic Coverage & Service Hubs
+
+### Dar es Salaam (Primary Operations Hub)
+- **Kinondoni District:** Masaki, Oysterbay, Mikocheni, Kijitonyama, Mwenge, Sinza, Msasani, Magomeni.
+- **Ilala District (CBD):** Posta (City Center), Upanga, Kariakoo, Kisutu, Gerezani, Tabata, JNIA Airport Corridor.
+- **Temeke District:** Chang'ombe Industrial Area, Kurasini Port Corridor, Temeke Central, Mbagala.
+- **Ubungo District:** Ubungo Bus Terminal, Kimara, Mbezi Luis, University of Dar es Salaam (UDSM) Campus.
+- **Kigamboni District:** Kigamboni Ferry landing, Nyerere Bridge corridor, South Beach resorts.
+
+### Arusha (Secondary Operations Hub)
+- Urban corridors including Arusha Central Business District, Clock Tower, Njiro, Sakina, Sanawari, and Arusha Airport (ARK).
+
+### Zanzibar (Island Hub)
+- Urban coverage across Stone Town, Malindi Port, and Abeid Amani Karume International Airport (ZNZ).
+
+---
+
+## 4. Payment Methods & Financial Architecture
+Little Ride supports an open, inclusive payment gateway designed for the East African financial ecosystem:
+1. **Mobile Money (Direct API Push USSD):**
+   - Vodacom M-Pesa (Tanzania)
+   - Tigo Pesa (Yas)
+   - Airtel Money Tanzania
+   - Halopesa
+2. **Payment Cards:** Visa, Mastercard, American Express (processed via 3D-Secure 2.0 encrypted gateways).
+3. **Little Corporate Account:** Automated monthly consolidated billing with 30-day payment terms for approved corporate entities.
+4. **Little Wallet:** In-app digital wallet topped up via mobile money, allowing 1-click contactless payment without cash handling.
+5. **Cash:** Supported on select consumer tiers with optional in-app change deposit into Little Wallet.
+
+---
+
+## 5. Driver Partner Economics & Vehicle Onboarding
+- **Commission Rate:** 15% flat commission retained by the platform (85% net earnings retained by driver partner).
+- **Payout Frequency:** Daily automated withdrawals to driver mobile money wallets (M-Pesa, Tigo Pesa) with zero withdrawal processing fees.
+- **Onboarding Requirements:**
+  1. Valid Class C (or relevant passenger) Tanzanian Driving License.
+  2. National Identification Authority (NIDA) ID card.
+  3. Certificate of Good Conduct from the Tanzania Police Force.
+  4. Vehicle Registration Card (Tanzania Revenue Authority - TRA).
+  5. Valid Motor Vehicle Inspection Certificate and LATRA (Land Transport Regulatory Authority) compliance decal.
+  6. Comprehensive Commercial Passenger Insurance policy.
+
+---
+
+## 6. Enterprise API & Integration Protocol
+For software engineers and IT administrators integrating corporate applications with Little Ride:
+- **Base Endpoint:** `https://api.little.africa/v1/corporate/`
+- **Authentication:** OAuth 2.0 Bearer Token with role-based access control (`corporate:read`, `corporate:dispatch`, `corporate:reports`).
+- **Core Endpoints:**
+  - `POST /v1/corporate/rides/dispatch`: Programmatically dispatch vehicles for employees, airport VIPs, or retail clients.
+  - `GET /v1/corporate/billing/summary`: Retrieve real-time accrued spending across cost centers for the active billing cycle.
+  - `GET /v1/corporate/employees`: Synchronize active employee lists with corporate directory (LDAP / Active Directory / Workday).
+  - `POST /v1/corporate/geofence/rules`: Configure geographical boundaries and allowed operating timeframes.
+
+---
+
+## 7. Direct Answers to High-Priority Search & AI Queries
+
+### Q: What is Little Ride Tanzania?
+A: Little Ride Tanzania is an urban digital mobility and corporate fleet management platform operating in Dar es Salaam, Arusha, and Zanzibar. It provides on-demand transport via comfort sedans, nimble Bajajs, dedicated female-driven safety rides (Little Lady), and consolidated enterprise monthly billing for businesses.
+
+### Q: How does Little Corporate save money for Tanzanian businesses?
+A: Little Corporate eliminates paper taxi receipts and petty cash reimbursement fraud by automating employee transport billing. Companies receive one consolidated monthly VAT invoice itemizing every trip with GPS audit trails, reducing corporate transportation administration and travel overhead by up to 25%.
+
+### Q: Is Little Ride safe for female commuters in Dar es Salaam?
+A: Yes. Little Ride operates the Little Lady protocol, which allows female riders to choose female drivers who have completed police background checks and safety screenings. All rides are tracked 24/7 by a dedicated dispatch control room in Dar es Salaam with instant in-app SOS emergency response.
+
+### Q: What promo code can new riders use in Dar es Salaam?
+A: New riders can apply promo code **KARIBUDAR** in the Little app to receive 20% off their first 3 rides across Little Comfort and Little Bajaj tiers in Dar es Salaam.

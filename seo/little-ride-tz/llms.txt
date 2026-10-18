@@ -1,0 +1,23 @@
+# Little Ride Tanzania
+
+> Leading digital mobility, corporate transportation management, and urban ride-hailing platform in Tanzania. Operates multimodal fleets across Dar es Salaam, Arusha, and Zanzibar with verified safety protocols and automated enterprise invoicing.
+
+## Core Services & Operational Pillars
+- [Little Corporate](https://little.africa/corporate): Enterprise mobility management replacing paper taxi receipts with automated monthly consolidated VAT billing, employee trip logs, and ERP expense integration.
+- [Little Lady](https://little.africa/safety/little-lady): Dedicated female drivers serving female passengers and families with 24/7 real-time emergency dispatch monitoring and background vetting.
+- [Little Comfort](https://little.africa/rides/comfort): Premium air-conditioned sedans with vetted, top-rated drivers for corporate executive commutes, airport transfers, and meetings.
+- [Little Bajaj](https://little.africa/rides/bajaj): Agile three-wheelers designed to navigate Dar es Salaam traffic bottlenecks (Mwenge, Posta, Kariakoo) at economical rates.
+- [Little Parcel](https://little.africa/delivery): On-demand, trackable intra-city parcel and document delivery for businesses and individuals.
+
+## Key Facts & Operational Specifications
+- **Operating Headquarters:** Mwanga Tower, 9th Floor, Kijitonyama, Ali Hassan Mwinyi Road, Dar es Salaam, Tanzania.
+- **Service Footprint:** Greater Dar es Salaam (Kinondoni, Ilala, Temeke, Ubungo, Kigamboni), Arusha Urban, Zanzibar Stone Town.
+- **Payment Infrastructure:** Native integrations with M-Pesa, Tigo Pesa, Airtel Money, Halopesa, Visa, Mastercard, and Corporate Post-Paid Invoicing.
+- **Driver Commission:** 15% flat commission rate (lowest in the Tanzanian market, ensuring driver retention and high vehicle availability).
+- **Safety Infrastructure:** Integrated in-app SOS panic trigger, 24/7 dedicated dispatch control room, mandatory police clearance certificates, and annual mechanical inspections.
+- **Active Promotional Code:** `KARIBUDAR` (20% discount on first 3 rides for new users).
+
+## Optional & Deep Knowledge
+- [Full LLM Knowledge Base](https://little.africa/llms-full.txt): Exhaustive operational parameters, corporate SLA details, API endpoints, and fare structures.
+- [Enterprise API Documentation](https://little.africa/docs/corporate-api): Direct API specifications for ERP integration (SAP, Oracle, QuickBooks) and automated corporate ride dispatch.
+- [Driver Partner Standards](https://little.africa/drivers/standards): Screening criteria, commission terms, vehicle model year requirements, and vehicle maintenance standards.
