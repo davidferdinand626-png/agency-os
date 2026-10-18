@@ -1,0 +1,40 @@
+# Little Ride Tanzania - Production robots.txt
+# Canonical Domain: https://little.africa / https://littleride.co.tz
+# Headquarters: Mwanga Tower, 9th Floor, Kijitonyama, Dar es Salaam
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /account/private/
+Disallow: /checkout/session/
+
+# Explicitly Allow Leading Generative Search & AI Crawlers
+User-agent: GPTBot
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+
+User-agent: PerplexityBot
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+
+User-agent: ClaudeBot
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+
+User-agent: Google-Extended
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+
+User-agent: Applebot-Extended
+Allow: /
+Allow: /llms.txt
+Allow: /llms-full.txt
+
+# Sitemaps
+Sitemap: https://little.africa/sitemap.xml
+Sitemap: https://little.africa/sitemap-services.xml
